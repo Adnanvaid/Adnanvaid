@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a aspiring AI/ML Engineer building end to end Projects
+AI/ML Engineer focused on architecting, optimizing, and deploying intelligent systems at scale. Dedicated to translating complex data challenges into robust, production-grade AI solutions.
 
 
 ## 🌐 Socials:
